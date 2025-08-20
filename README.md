@@ -7,7 +7,7 @@ This repository contains **reusable React components**:
 1. **TextInput** – A customizable input field with variants, sizes, loading state, and error handling.  
 2. **DataTable** – A flexible table with sorting, single/multiple row selection, and loading state.
 
-### <a href="https://uzence-asignment.vercel.app/" target="_blank">View Storybook</a>
+### [View Storybook](https://uzence-asignment.vercel.app)
 
 ---
 
